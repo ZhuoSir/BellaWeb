@@ -9,4 +9,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class LoginService {
 
+    public void validate(String accountName, String password) {
+
+    }
+
 }
